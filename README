@@ -1,0 +1,2 @@
+portage-slices looks at what portage looks at when you run a world module
+(i.e cde emege -pU #{name of git branch})
